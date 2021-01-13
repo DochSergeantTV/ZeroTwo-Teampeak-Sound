@@ -1,5 +1,5 @@
 # ZeroTwo-Teampeak-Sound
-Hey,
+#Hey,
 
 #I created this folder for all Zero Two fans and prepared it for Teamspeak.
 
